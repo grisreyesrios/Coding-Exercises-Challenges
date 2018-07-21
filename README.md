@@ -1,4 +1,5 @@
-# Solutions--Daily-Coding-Problems
-Solutions to the problems by the newsletter Daily Coding Problem. https://www.dailycodingproblem.com/
+# Solutions--Daily-Coding-Problem
 
-Solutions using Python 3.6.5
+Some proposals to solve the problems of the newsletter Daily Coding Problem. https://www.dailycodingproblem.com/. I am trying to enhance my knowledge and ability to code in Python with these interesting problems.
+
+Solutions using Python 3.6.5, Atom and PyCharm (IDE for Python).
