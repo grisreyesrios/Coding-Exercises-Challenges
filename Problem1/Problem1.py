@@ -13,7 +13,6 @@ def addtwo(listnumber, k):
 
 
 lstnum = []  # Creation of a list
-x = 0
 while len(lstnum) < 4:  # Loop to introduce the numbers by the user and add it to the list.
     try:
         number = int(input("Please enter a number:"))   # Start the exception to avoid a traceback.
@@ -21,7 +20,7 @@ while len(lstnum) < 4:  # Loop to introduce the numbers by the user and add it t
     except ValueError:
         print("Invalid input, please introduce only integers")
 
-    if x == 4:           # Stop the loop
+    if len(lstnum) == 4:            # Stop the loop
         break
 
 print("Your list of numbers is:")
