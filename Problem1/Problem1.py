@@ -1,8 +1,6 @@
 # Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 # For example, given [10,15,3,7] and k = 17, return since 10+7 is 17.
-# It considers for the list a maximum of 4 numbers introduced by the user. The total elapsed time for execution is calculated.
-
-import time
+# It considers for the list a maximum of 4 numbers introduced by the user. 
 
 
 # Define the function
@@ -14,7 +12,6 @@ def addtwo(listnumber, k):
     return False
 
 
-start = time.time()     # Start the clock
 lstnum = []  # Creation of a list
 while len(lstnum) < 4:  # Loop to introduce the numbers by the user and add it to the list.
     try:
@@ -32,6 +29,3 @@ print(lstnum)  # Print sorted list
 k1 = int(input("Enter a number for the k value:"))
 screen = addtwo(lstnum, k1)   # Calling the function
 print("The two numbers from the list that add up k are:", screen)  # Print final result
-finish = time.time()       # Stop the clock
-elapsed = finish - start   # Calculate the elapsed time
-print('The total amount of time for execution was:', elapsed, "s")
