@@ -10,18 +10,24 @@ https://www.indiehackers.com/interview/a2b57cca87
 
 [Project Euler](https://www.projecteuler.net)]
 
-It is a well-known Website dedicated to a series of computational problems. It was created in 2001 by Colin Hughes. The current portfolio covers a total of 633 problems.  Every member can achieve a total of 24 levels that it is reached every 25  exercises that are solved.
-
+It is a well-known Website dedicated to a series of computational problems. It was created in 2001 by Colin Hughes. The current portfolio covers a total of *633* problems. 
 The implementation can be made in any programming language, but according to the current statistics of the website, the most popular languages are:
 
-Total amount of members:  **821637** registeredwho have solved at least one problem.
+Total amount of members:  **821,637** registered who have solved at least one problem.
 
 1. Python: 50,150 members
 2. C/C++ : 42,747 members
 3. JAVA: 28,938 members
 4. C# : 13,487 members
-5. Haskell: 6, 782 members
+5. Haskell: 6,782 members
 
-Solutions using Python 3.7.0, Atom and PyCharm (IDE for Python).
+###Solutions implemented with:
+
+Python 3.7.0, Atom and PyCharm (IDE for Python).
+
+Links to download:
+1. [Python 3.7.0](https://www.python.org/downloads/release/python-370/)
+2. [Atom](https://atom.io/)
+3. [PyCharm, the community link is free and opne source](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/grisreyesrios/Coding-Exercises-Challenges?branch=master)](https://bettercodehub.com/)
