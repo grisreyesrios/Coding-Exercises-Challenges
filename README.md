@@ -1,6 +1,7 @@
 ## Solutions to different Coding Exercises/Challenges 
 
-Learning to program means to analyze a problem, find a solution and implement it using a programming language. The goal of the repository is to provide proposals to the exercises of the following websites that contain a wide range portfolio.
+The goal of the repository is to provide proposals to the exercises of the following websites that contain a wide range portfolio. The code can be always be improved. If you have any suggestions, please do not hesitate to open a *pull request or issue*.
+In a near future, I intend to implement the answers as well in JAVA.
  
 [Daily Coding Problem](https://www.dailycodingproblem.com)
 
@@ -29,5 +30,27 @@ Links to download:
 1. [Python 3.7.0](https://www.python.org/downloads/)
 2. [Atom](https://atom.io/)
 3. [PyCharm, the community link is free and open source](https://www.jetbrains.com/pycharm/download/#section=windows)
+
+### Extra links with other coding challenges:
+
+The following links are considered for Beginner-Intermediate Level:
+
+1. [Coderbyte](https://www.coderbyte.com/)
+2. [Codewars](https://www.codewars.com/)
+3. [Code Signal](https://codesignal.com/)
+4. [Coding Game](https://www.codingame.com/start)
+
+For Intermediate-Advanced Level:
+
+5. [Top Coder](https://www.topcoder.com/)
+6. [Hacker Rank](https://www.hackerrank.com/)
+7. [Lett Code](https://leetcode.com/)
+8. [Code Chef](https://www.codechef.com/#)
+9. [Geeks for Geeks](https://www.geeksforgeeks.org/)
+10.[Code Forces](http://codeforces.com/)
+
+Source: [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
+
+### Code Quality:
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/grisreyesrios/Coding-Exercises-Challenges?branch=master)](https://bettercodehub.com/)
