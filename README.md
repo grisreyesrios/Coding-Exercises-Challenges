@@ -44,12 +44,20 @@ For Intermediate-Advanced Level:
 
 5. [Top Coder](https://www.topcoder.com/)
 6. [Hacker Rank](https://www.hackerrank.com/)
-7. [Lett Code](https://leetcode.com/)
+7. [Leet Code](https://leetcode.com/)
 8. [Code Chef](https://www.codechef.com/#)
 9. [Geeks for Geeks](https://www.geeksforgeeks.org/)
 10.[Code Forces](http://codeforces.com/)
 
 Source: [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
+
+### Links to basic concepts in Programming:
+
+Lectures by MIT Professor Eric Grimson: 
+
+1.[Recursion and Dictionaries](https://youtu.be/WPSeyjX1-4s)
+2.Emphasizes in Big-O Notation: [Understanding Program Efficiency:Part 1](https://youtu.be/o9nW0uBqvEo)
+3.[Understanding Program Efficiency:Part 2](https://youtu.be/7lQXYl_L28w)
 
 ### Code Quality:
 
