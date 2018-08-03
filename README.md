@@ -59,6 +59,9 @@ Lectures by MIT Professor Eric Grimson:
 2. Emphasizes in Big-O Notation: [Understanding Program Efficiency:Part 1](https://youtu.be/o9nW0uBqvEo)
 3. [Understanding Program Efficiency:Part 2](https://youtu.be/7lQXYl_L28w)
 
+Books:
+1. [Python for Everybody: Exploring Data In Python 3, Charles Severance](https://www.py4e.com/book)
+
 ### Code Quality:
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/grisreyesrios/Coding-Exercises-Challenges?branch=master)](https://bettercodehub.com/)
