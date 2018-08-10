@@ -61,6 +61,7 @@ Lectures by MIT Professor Eric Grimson:
 
 Books:
 1. [Python for Everybody: Exploring Data In Python 3, Charles Severance](https://www.py4e.com/book)
+2. [A Primer on Scientific Programming with Python, Hans Petter Langtangen](https://hplgit.github.io/primer.html/doc/pub/half/book.pdf)
 
 ### Code Quality:
 
