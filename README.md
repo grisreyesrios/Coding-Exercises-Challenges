@@ -14,13 +14,13 @@ https://www.indiehackers.com/interview/a2b57cca87
 It is a well-known Website dedicated to a series of computational problems. It was created in 2001 by Colin Hughes. The current portfolio covers a total of *633* problems. 
 The implementation can be made in any programming language, but according to the current statistics of the website, the most popular languages are:
 
-Total amount of members:  **821,637** registered who have solved at least one problem.
+Total amount of members:  **825,757** registered who have solved at least one problem.(*Status: August 2018*)
 
-1. Python: 50,150 members
-2. C/C++ : 42,747 members
-3. JAVA: 28,938 members
-4. C# : 13,487 members
-5. Haskell: 6,782 members
+1. Python: 50,359 members
+2. C/C++ : 42,835 members
+3. JAVA: 28, 986 members
+4. C# : 13,505 members
+5. Haskell: 6,788 members
 
 ### Solutions implemented with:
 
