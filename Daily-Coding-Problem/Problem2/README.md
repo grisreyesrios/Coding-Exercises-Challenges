@@ -5,3 +5,9 @@ a single count and character. For example, the string **"AAAABBBCCDAA"** would b
 
 Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of 
 alphabetic characters. You can assume the string to be decoded is valid.
+
+### Output
+
+*With the driver function implemented in the algorithm, the output when you run it on the terminal is:*
+
+❮img src="Daily-Coding-Problem"/Images/result.PNG" width="100" ❯</img>
