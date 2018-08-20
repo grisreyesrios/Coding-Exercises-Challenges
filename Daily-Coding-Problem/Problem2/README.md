@@ -8,6 +8,23 @@ alphabetic characters. You can assume the string to be decoded is valid.
 
 ### Output
 
-*With the driver function implemented in the algorithm, the output when you run it on the terminal is:*
+With the driver function implemented in the algorithm:
 
-❮img src="Daily-Coding-Problem"/Images/result.PNG" width="100" ❯</img>
+```
+if __name__ == "__main__":  # Driver function
+    print("The encode version of AAAABBBCCDAA is:")
+    print(encode("AAAABBBCCDAA"))
+    print("The decode version of 1a2b3c is:")
+    print(decode("1a2b3c"))
+
+```
+
+The output when you run it on the terminal is:
+```
+C:\>python Problem2.py
+The encode version of AAAABBBCCDAA is:
+4A3B2C1D2A
+The decode version of 1a2b3c is:
+abbccc
+
+```
