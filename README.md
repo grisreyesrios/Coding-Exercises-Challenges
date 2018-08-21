@@ -1,5 +1,7 @@
 ## Solutions to different Coding Exercises/Challenges 
 
+*Version in Spanish can be found [here](README_Spanish.md), my native language is Spanish*
+
 The goal of the repository is to provide proposals to the exercises of the following websites that contain a wide range portfolio. The code can be always be improved. If you have any suggestions, please do not hesitate to open a *pull request or issue*.
 In a near future, I intend to implement the answers as well in JAVA.
  
