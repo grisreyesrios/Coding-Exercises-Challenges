@@ -49,6 +49,7 @@ For Intermediate-Advanced Level:
 7. [Leet Code](https://leetcode.com/)
 8. [Code Chef](https://www.codechef.com/#)
 9. [Geeks for Geeks](https://www.geeksforgeeks.org/)
+ - [Courses Geeks for Geeks](https://practice.geeksforgeeks.org/courses)
 10. [Code Forces](http://codeforces.com/)
 
 Source: [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
