@@ -11,7 +11,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 To solve the problem the following recursion relation was taken in account:
 
-*Even_Fn = 4*Even_Fn-1 + Even_Fn-2*
+*Even_Fn = 4(Even_Fn-1) + Even_Fn-2*
 
 and as seed or initial values: 
 
@@ -28,6 +28,6 @@ if __name__ == "__main__":  # Driver function
     print("The total sum of all the even terms in the Fibonacci sequence no higher than 4,000,000 is:",
           fiboeven(limit_ex))
 ```
-**Output**
+**Output:**
 
 The total sum of all the even terms in the Fibonacci sequence no higher than 4,000,000 is: 4613732
