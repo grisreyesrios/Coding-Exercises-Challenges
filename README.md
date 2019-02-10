@@ -29,7 +29,7 @@ Total amount of members:  **825,757** registered who have solved at least one pr
 Python 3.7.0, Atom and PyCharm (IDE for Python).
 
 Links to download:
-1. [Python 3.7.0](https://www.python.org/downloads/)
+1. [Python 3.6.7](https://www.python.org/downloads/)
 2. [Atom](https://atom.io/)
 3. [PyCharm, the community link is free and open source](https://www.jetbrains.com/pycharm/download/#section=windows)
 
