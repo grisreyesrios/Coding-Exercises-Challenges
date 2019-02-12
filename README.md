@@ -69,3 +69,5 @@ Books:
 ### Code Quality:
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/grisreyesrios/Coding-Exercises-Challenges?branch=master)](https://bettercodehub.com/)
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/326740cdcd8e4d52a3266b0edb4205fc)](https://www.codacy.com/app/grisell.reyes.rios/Coding-Exercises-Challenges?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=grisreyesrios/Coding-Exercises-Challenges&amp;utm_campaign=Badge_Grade)
