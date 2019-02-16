@@ -8,27 +8,21 @@ the permutation **[2, 1, 0]**, return **["c", "b", "a"]**.
 
 **Output**
 
-Driver function implemented in the algorithm:
+Unit tests code were implemented using "Pytest". Run the following command to check that the code pass the different tests or modify the file to customize it according to your necessities.
+
 ```
-if __name__ == "__main__":  # Driver function
-    original_array1 = ['a', 'b', 'c']
-    permutation_array1 = [2,1,0]
-    original_array2 = ['a', 'b', 'c', 'd']
-    permutation_array2 = [3,0,2,1]
-    print('The original array was:', original_array1)
-    print('It will be swapping with the following order', permutation_array1)
-    print('After swapping', permutation(original_array1, permutation_array1))
-    print('The original array was:', original_array2)
-    print('It will be swapping with the following order', permutation_array2)
-    print('After swapping', permutation(original_array2, permutation_array2))
+C:\>pytsest Problem5_test.py
+
 ```
 The output when  you run it on the terminal is:
 ```
-C:\>python3 Problem5.py
-The original array was: ['a', 'b', 'c']
-It will be swapping with the following order [2, 1, 0]
-After swapping ['c', 'b', 'a']
-The original array was: ['a', 'b', 'c', 'd']
-It will be swapping with the following order [3, 0, 2, 1]
-After swapping ['b', 'd', 'c', 'a']
+============================= test session starts ==============================
+platform linux2 -- Python 2.7.15rc1, pytest-3.3.2, py-1.5.2, pluggy-0.6.0 -- /usr/bin/python2
+cachedir: .cache
+rootdir: .../Problem5, inifile:
+collected 1 item                                                               
+
+Problem5_test.py::test_permutation PASSED                                [100%]
+
+=========================== 1 passed in 0.00 seconds ===========================
 ```
