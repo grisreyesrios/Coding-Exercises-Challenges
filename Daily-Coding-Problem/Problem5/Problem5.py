@@ -10,18 +10,5 @@ def permutation(original_array, permutation_array):
         while j != i:
             original_array[j], element = element, original_array[j]
             permutation_array[j], j = j, permutation_array[j]
-        original_array[i], permutation_array[i] = element, j
-    return original_array
-
-
-if __name__ == "__main__":  # Driver function
-    original_array1 = ['a', 'b', 'c']
-    permutation_array1 = [2,1,0]
-    original_array2 = ['a', 'b', 'c', 'd']
-    permutation_array2 = [3,0,2,1]
-    print('The original array was:', original_array1)
-    print('It will be swapping with the following order', permutation_array1)
-    print('After swapping', permutation(original_array1, permutation_array1))
-    print('The original array was:', original_array2)
-    print('It will be swapping with the following order', permutation_array2)
-    print('After swapping', permutation(original_array2, permutation_array2))
+            original_array[i], permutation_array[i] = element, j
+            return original_array
